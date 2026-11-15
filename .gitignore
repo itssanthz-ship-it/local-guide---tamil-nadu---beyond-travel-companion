@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Environment variables (API keys protection)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist
+dist-ssr
+server.js
+*.local
+
+# Local SQLite database
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Logs & OS files
+logs
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

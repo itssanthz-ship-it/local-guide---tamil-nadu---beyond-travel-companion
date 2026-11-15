@@ -1,0 +1,6 @@
+{
+  "name": "Local Guide — Tamil Nadu & Beyond Travel Companion",
+  "description": "AI-powered travel, tourism, accommodation, and verified local assistance platform covering all 38 districts of Tamil Nadu and beyond in English and Tamil.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
